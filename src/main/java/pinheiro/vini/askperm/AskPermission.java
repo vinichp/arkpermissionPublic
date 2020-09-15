@@ -1,6 +1,5 @@
 package pinheiro.vini.askperm;
 
-import static org.junit.Assert.assertEquals;
 
 import java.io.Console;
 import java.util.Scanner;
@@ -81,6 +80,6 @@ public class AskPermission {
 			navegador.quit();
 		}
 		
-		assertEquals(1,1);
+		
 	}
 }
